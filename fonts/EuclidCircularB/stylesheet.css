@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Euclid Circular B';
+    src: url('EuclidCircularB-Bold.eot');
+    src: local('Euclid Circular B Bold'), local('EuclidCircularB-Bold'),
+        url('EuclidCircularB-Bold.eot?#iefix') format('embedded-opentype'),
+        url('EuclidCircularB-Bold.woff2') format('woff2'),
+        url('EuclidCircularB-Bold.woff') format('woff'),
+        url('EuclidCircularB-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Euclid Circular B';
+    src: url('EuclidCircularB-Medium.eot');
+    src: local('Euclid Circular B Medium'), local('EuclidCircularB-Medium'),
+        url('EuclidCircularB-Medium.eot?#iefix') format('embedded-opentype'),
+        url('EuclidCircularB-Medium.woff2') format('woff2'),
+        url('EuclidCircularB-Medium.woff') format('woff'),
+        url('EuclidCircularB-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Euclid Circular B';
+    src: url('EuclidCircularB-SemiBold.eot');
+    src: local('Euclid Circular B SemiBold'), local('EuclidCircularB-SemiBold'),
+        url('EuclidCircularB-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('EuclidCircularB-SemiBold.woff2') format('woff2'),
+        url('EuclidCircularB-SemiBold.woff') format('woff'),
+        url('EuclidCircularB-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Euclid Circular B';
+    src: url('EuclidCircularB-Regular.eot');
+    src: local('Euclid Circular B Regular'), local('EuclidCircularB-Regular'),
+        url('EuclidCircularB-Regular.eot?#iefix') format('embedded-opentype'),
+        url('EuclidCircularB-Regular.woff2') format('woff2'),
+        url('EuclidCircularB-Regular.woff') format('woff'),
+        url('EuclidCircularB-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
